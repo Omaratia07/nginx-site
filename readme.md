@@ -39,9 +39,8 @@ Visit in your browser:
 
 ---
 🖼️ Screenshot
-x-special/nautilus-clipboard
-copy
-file:///tmp/VMwareDnD/PckRU6/Screenshot from 2025-09-13 17-33-41.png
+
+<img width="1918" height="938" alt="Screenshot from 2025-09-13 17-33-41" src="https://github.com/user-attachments/assets/b641a35a-557f-4f72-95a8-dd0cfa5f4812" />
 
 
 ## 🐳 Dockerfile Explained
